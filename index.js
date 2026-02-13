@@ -7,3 +7,6 @@ console.log(multiply(7,2));
 console.log() ;
 import {readfile} from './fileSystem.js';
 readfile();
+
+import os from "os";
+console.log("CPU",os.cpus());

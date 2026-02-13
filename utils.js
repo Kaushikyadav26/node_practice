@@ -4,11 +4,11 @@ export const add = (a,b) => {
 
 export const GLOBAL_VARIABLE =[]
 
-const multiple=(a,b) =>{
+const multi=(a,b) =>{
     return a*b;
 };
 
-export const multiply = (a,b) => {
+export  const multiply = (a,b) => {
     return a*b; 
 }
 
